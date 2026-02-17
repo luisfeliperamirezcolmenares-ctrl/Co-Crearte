@@ -1,0 +1,7 @@
+{
+  "name": "CoCrearte RFID Tracker",
+  "description": "High-volume RFID tracking application for Co Crearte and Colsubsidio. features geolocation tracking and real-time dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
